@@ -1,4 +1,7 @@
-# api documentation for  [theo (v5.0.0)](https://github.com/salesforce-ux/theo)  [![npm package](https://img.shields.io/npm/v/npmdoc-theo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-theo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-theo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-theo)
+# npmdoc-theo
+
+#### basic api documentation for  [theo (v5.0.0)](https://github.com/salesforce-ux/theo)  [![npm package](https://img.shields.io/npm/v/npmdoc-theo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-theo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-theo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-theo)
+
 #### A set of Gulp plugins for transforming and formatting Design Tokens
 
 [![NPM](https://nodei.co/npm/theo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/theo)
@@ -95,7 +98,8 @@
         "lint": "eslint . --ext .js --format codeframe",
         "test": "jest"
     },
-    "version": "5.0.0"
+    "version": "5.0.0",
+    "bin": {}
 }
 ```
 
